@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Singh Bisht
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate on WebD Projects
+- 🌱 I’m currently learning Automation
+- 💞️ I’m looking to collaborate on Automation Projects
 - 📫 How to reach me -
           www: http://amitsinghbisht.com/
           email: bishtamitsingh98@gmail.com
