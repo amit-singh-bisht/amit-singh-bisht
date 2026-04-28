@@ -1,6 +1,7 @@
 <!--
   GitHub profile README for amit-singh-bisht.
-  Snapshot refreshed on 2026-04-28 from public GitHub, RubyGems, and DEV data.
+  Snapshot refreshed on 2026-04-28 from public GitHub, aggregate private/enterprise Git counts,
+  RubyGems, and DEV data.
 -->
 
 <h1 align="center">Amit Singh Bisht</h1>
@@ -36,29 +37,28 @@
 
 ---
 
-## Snapshot
+## Engineering Footprint
 
-| Signal | Current public value |
+GitHub does not publish an official personal rating or global rank. My engineering footprint is better represented by shipped repositories, package usage, commits, and automation evidence.
+
+| Signal | Verified public value |
 | --- | ---: |
+| RubyGems package downloads | 438K+ |
+| Public + private repos counted | 26 |
+| Amit-authored commits found | 1,479 |
+| Total repo-history commits counted | 65,627 |
+| Tracked text lines counted | 19,000,212 |
+| Tracked files counted | 62,214 |
 | Public repositories | 7 |
-| Followers / following | 3 / 0 |
-| Owned-repo stars / forks | 4 / 4 |
-| Open issues across owned public repos | 2 |
-| Public repo mix | Ruby 3, HTML 2, JavaScript 1, README-only 1 |
-| Oldest public repo | `AmazonWebAutomationUsingSelenium.github.io` |
-| Newest public repo | `amit-singh-bisht` |
-| Location / org | Mumbai · `@fynd` |
+| Private / enterprise repos counted | 19 |
 
-## GitHub Stats
+Private/enterprise repository names are intentionally omitted here; only aggregate counts are shown.
 
-<p align="center">
-  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-singh-bisht&theme=github_dark">
-</p>
-
-<p align="center">
-  <img alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-singh-bisht&theme=github_dark">
-  <img alt="GitHub contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-singh-bisht&theme=github_dark">
-</p>
+| Count basis | Repos | Amit-authored commits | Repo-history commits | Tracked text lines |
+| --- | ---: | ---: | ---: | ---: |
+| Public GitHub owned repos | 7 | 106 | 106 | 8,877 |
+| Private / enterprise repos | 19 | 1,373 | 65,521 | 18,991,335 |
+| Combined accessible repos | 26 | 1,479 | 65,627 | 19,000,212 |
 
 ## Now
 
@@ -66,6 +66,14 @@
 - Learning deeper AI-assisted testing, autonomous test generation, and scalable automation design.
 - Open to collaborating on QA tools, Selenium/WebDriver helpers, API testing utilities, and reporting dashboards.
 - Ask me about Selenium, Ruby automation, BrowserStack, Cucumber, API testing, LaunchDarkly automation, and test framework design.
+
+## Automation Skillset
+
+- Browser automation: Selenium, WebDriver, BrowserStack, page objects, waits, selectors, screenshots, and flaky test triage.
+- API and contract testing: REST APIs, PactumJS, JSON/XML validation, Cucumber workflows, reusable clients, and assertion helpers.
+- Framework design: Ruby helpers, logging utilities, package publishing, test data setup, reporting, and maintainable abstractions.
+- Delivery feedback: GitHub Actions, Maven, TestNG, CI artifacts, LaunchDarkly flags, release checks, and readable failure signals.
+- Modern QA direction: AI-assisted testing, autonomous test generation, Playwright workflows, and scalable automation design.
 
 ## Package Impact
 
@@ -112,13 +120,3 @@
 </p>
 
 I write notes on GitHub runners, Playwright, Maven, and testing workflows.
-
-## Source Notes
-
-The fixed snapshot numbers were refreshed on 2026-04-28 from public data:
-[GitHub profile](https://github.com/amit-singh-bisht),
-[GitHub repositories](https://github.com/amit-singh-bisht?tab=repositories),
-[RubyGems selenium_webdriver_helper](https://rubygems.org/gems/selenium_webdriver_helper),
-[RubyGems launchdarkly_api_helper](https://rubygems.org/gems/launchdarkly_api_helper),
-[RubyGems logger_easy](https://rubygems.org/gems/logger_easy), and
-[DEV](https://dev.to/amit_singh_bisht).
