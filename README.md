@@ -99,9 +99,19 @@
 
 ## Connect / Writing
 
-- GitHub: [`@amit-singh-bisht`](https://github.com/amit-singh-bisht)
-- LinkedIn: [`amit-singh-bisht`](https://www.linkedin.com/in/amit-singh-bisht/)
-- DEV: [`@amit_singh_bisht`](https://dev.to/amit_singh_bisht) - notes on GitHub runners, Playwright, Maven, and testing workflows.
+<p>
+  <a href="https://github.com/amit-singh-bisht">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-amit--singh--bisht-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/amit-singh-bisht/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-amit--singh--bisht-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://dev.to/amit_singh_bisht">
+    <img alt="DEV" src="https://img.shields.io/badge/DEV-amit__singh__bisht-0A0A0A?style=flat-square&logo=devdotto&logoColor=white">
+  </a>
+</p>
+
+I write notes on GitHub runners, Playwright, Maven, and testing workflows.
 
 ## Source Notes
 
