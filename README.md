@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**amit-singh-bisht/amit-singh-bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--
   GitHub profile home page for amit-singh-bisht.
   Snapshot refreshed on 2026-04-28 from GitHub public profile/repo APIs and RubyGems public APIs.
@@ -26,7 +9,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/amit-singh-bisht"><img alt="GitHub followers" src="https://img.shields.io/github/followers/amit-singh-bisht?label=Followers&style=for-the-badge&color=0F766E&labelColor=111827"></a>
-  <a href="https://github.com/amit-singh-bisht?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/Public%20Repos-6-F59E0B?style=for-the-badge&labelColor=111827"></a>
+  <a href="https://github.com/amit-singh-bisht"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=amit-singh-bisht&style=for-the-badge&color=0F766E&label=Profile%20views"></a>
+  <a href="https://github.com/amit-singh-bisht?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/Public%20Repos-7-F59E0B?style=for-the-badge&labelColor=111827"></a>
   <a href="#package-impact"><img alt="RubyGems downloads" src="https://img.shields.io/badge/RubyGems%20Downloads-438K%2B-B91C1C?style=for-the-badge&labelColor=111827"></a>
   <img alt="Location" src="https://img.shields.io/badge/Mumbai-India-2563EB?style=for-the-badge&labelColor=111827">
 </p>
@@ -55,16 +39,24 @@ Here are some ideas to get you started:
 
 | Signal | Latest public value |
 | --- | ---: |
-| Public repositories | 6 |
+| Public repositories | 7 |
 | Followers | 3 |
 | Following | 0 |
 | Stars across owned public repos | 4 |
 | Forks across owned public repos | 4 |
 | Open issues across owned public repos | 2 |
-| Public repo languages | Ruby 3, HTML 2, JavaScript 1 |
-| Latest updated public repo | `AmazonWebAutomationUsingSelenium.github.io` |
+| Public repo languages | Ruby 3, HTML 2, JavaScript 1, README-only 1 |
+| Latest updated public repo | `amit-singh-bisht` |
 | GitHub profile created | 2020-08-01 |
 | Public profile updated | 2026-04-28 |
+
+## GitHub Facts
+
+- Your newest public repository is this profile repo: `amit-singh-bisht`, created on 2026-04-28.
+- Your oldest public repository is `AmazonWebAutomationUsingSelenium.github.io`, created on 2020-11-30.
+- Your public projects are neatly split across automation examples, API tooling, logging utilities, and RubyGems packages.
+- Your owned public repos currently have a tidy symmetry: 4 total stars and 4 total forks.
+- The strongest public footprint is package distribution: your three RubyGems packages have 438K+ combined downloads.
 
 ## Package Impact
 
