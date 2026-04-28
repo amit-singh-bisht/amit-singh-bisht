@@ -49,6 +49,17 @@
 | Newest public repo | `amit-singh-bisht` |
 | Location / org | Mumbai · `@fynd` |
 
+## GitHub Stats
+
+<p align="center">
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-singh-bisht&theme=github_dark">
+</p>
+
+<p align="center">
+  <img alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amit-singh-bisht&theme=github_dark">
+  <img alt="GitHub contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amit-singh-bisht&theme=github_dark">
+</p>
+
 ## Now
 
 - Working on QA automation tooling, browser automation workflows, and developer-friendly test helpers.
